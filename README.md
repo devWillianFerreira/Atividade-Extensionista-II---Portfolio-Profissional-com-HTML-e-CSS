@@ -66,6 +66,4 @@ portfolio/
 
 3. Abra o arquivo `index.html` em seu navegador.
 
-## 📄 Licença
 
-Este projeto está disponível para fins de estudo e aprendizado.
